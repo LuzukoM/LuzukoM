@@ -1,6 +1,1 @@
-Prosper Data Exploration
-By Luzuko Madoli
-Dataset
-This dataset consits of 113 937 loans. These loans consist the following Loan status, Loan Original Amount, Employment Status, Borrower APR and Borrower Rate, Estimated Effective Yield, Investora, Prosper Scores, Listing Category (numeric), Staten Monthly Income plus ProsperRating (Alpha) and so on.
-Findings
-These findings consist frequent ratings amongst defaulted credits, and that most of the default credits comes from individuals with ratings that are low. There are other factors that we considered like Risk factors with regards to loaning money. i focused mainly on these risk factors. I also compared the loan staus and the loan original status to determine which is completed and which is defaulting, ranging from what is depicted by the plots. and it determined that the completed credits are much larger that default credits.The debt consolidation also showed its frequency as time went by. In the prosper loan data only a few could pay their loans over a period/ term that they were supposed to, it took them close to five years, to complete their loans. An investigation of the realtionship between loan amount and borrower APR was also made.
+
